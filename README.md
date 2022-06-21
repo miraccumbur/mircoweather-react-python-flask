@@ -64,8 +64,9 @@ This project is my graduation project website. I used nodejs express for backend
 
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/55981219/174855578-ed3099e7-50e4-4388-bed6-ea1d4bff4d4f.png" width="390px">
+      <img src="https://user-images.githubusercontent.com/55981219/174865219-8c7d3326-e4e6-45cf-b5e6-5578a19b62ae.png" width="390px">
     </td>
   </tr>
   
 </table>
+
